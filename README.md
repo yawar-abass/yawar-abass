@@ -1,7 +1,7 @@
 <!-- <img alt="Coding" height="400" src ="https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg"> -->
 <!--  ![MasterHead](https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg) -->
 <h1 align="center">Hi 👋, I'm Yawar Abass</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Programmer</h3>
 <img align= "right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatyawar1&label=Profile%20views&color=0e75b6&style=flat" alt="bhatyawar1" /> </p>
