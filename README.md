@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMnwLsMw/XbBpCXG8gHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![MasterHead](https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg)
 <h1 align="center">Hi 👋, I'm Yawar Abass</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align= "right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
