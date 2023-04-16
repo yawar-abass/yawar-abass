@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bhatyawar02" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="bhatyawar02" height="30" width="40" /></a>
+<a href="https://twitter.com/yawarabass01" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="Yawar abass" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yawar-abass-1603ab206" target="blank">
 <img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="https://www.linkedin.com/in/yawar-abass-1603ab206" height="30" width="35" /></a>
 </p>
