@@ -9,11 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/developer_yawar" target="blank"><img src="https://img.shields.io/twitter/follow/developer_yawar?logo=twitter&style=for-the-badge" alt="yawarabass" /></a> </p>
 
--  🚀 Crafting compelling web experiences with  **Next.js, Tailwind CSS, and React.**
+-  🚀 Hi, I'm Yawar Abass,  a passionate self-taught Frontend Developer dedicated to crafting visually stunning and user-centric web experiences. Proficient in cutting-edge technologies like React, Next.js, and Tailwind CSS, I specialize in translating design concepts into responsive and high-performing code. 
   
-- 💻 Software sorcerer passionate about transforming ideas into robust and innovative solutions.
+- 💻 Previously: Frontend Developer at Wudav Brand Stories.
+  
+- 💻 Currently: Freelance Frontend Developer (React and Next.js).
 
-- 🌱 I’m currently learning **Frontend Development (Next.js)**
+- 👥 Worked with almost 10+ Clients
+
+- 🌱 I’m currently learning **Fullstack Development (MERN)**
 
 -  📫 How to reach me **developer.yawar@gmail.com**
 
@@ -31,10 +35,10 @@
 <h3>🔧 Technologies & Tools</h3> 
 
 
-- <strong>Languages</strong>: HTML/CSS, JavaScript, PHP, Python, Java, C.
-- <strong>Frameworks & Libraries</strong>: React.js, Next.js, ReactNative, Tailwind , Bootstrap.
-- <strong>Databases</strong>: Sql, MongoDb
-- <strong> Tools</strong>: WordPress, Git & GitHub , Azure, Vscode, Figma, Hostinger, Andriod Studio
+- <strong>Languages</strong>: HTML/CSS, JavaScript, Python, Java, C.
+- <strong>Frameworks & Libraries</strong>: React.js, Next.js, Tailwind CSS, Shadcn UI, Bootstrap, Gsap, Redux Toolkit,  ReactNative, Node.js, Express.js, Mongoose.
+- <strong>Databases</strong>: SQL, MongoDB
+- <strong> Tools</strong>:  Git & GitHub, Azure, Vscode, Figma, Andriod Studio, Postman, Vercel, WordPress.
 
 <p align="left">
 
