@@ -17,7 +17,7 @@
 
 - 👥 Worked with almost 10+ Clients
 
-- 🌱 I’m currently learning **Fullstack Development (MERN)**
+- 🌱 I’m currently learning **Backend Development (Node.js)**
 
 -  📫 How to reach me **developer.yawar@gmail.com**
 
