@@ -1,36 +1,16 @@
 <!-- <img alt="Coding" height="400" src ="https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg"> -->
 <!--  ![MasterHead](https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg) -->
-<h1 align="center">Hi 👋, I'm Yawar Abass</h1>
-<h3 align="center">A Passionate Programmer</h3>
-<hr>
+<h1>Hi 👋, I'm Yawar Abass</h1>
 <img align= "right" alt="Coding" width="350" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yawar-abass&label=Profile%20views&color=0e75b6&style=flat" alt="yawar-abass" /> </p>
 
-<p align="left"> <a href="https://twitter.com/developer_yawar" target="blank"><img src="https://img.shields.io/twitter/follow/developer_yawar?logo=twitter&style=for-the-badge" alt="yawarabass" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yawarabass_" target="blank"><img src="https://img.shields.io/twitter/follow/yawarabass_?logo=twitter&style=for-the-badge" alt="yawarabass_" /></a> </p>
 
--  🚀 Hi, I'm Yawar Abass,  a passionate self-taught Frontend Developer dedicated to crafting visually stunning and user-centric web experiences. Proficient in cutting-edge technologies like React, Next.js, and Tailwind CSS, I specialize in translating design concepts into responsive and high-performing code. 
-  
-- 💻 Previously: Frontend Developer at Wudav Brand Stories.
-  
-- 💻 Currently: Freelance Frontend Developer (React and Next.js).
+-Currently pursuing a Master’s in Computer Science, with 1.5 years of experience in frontend web development and a strong interest in AI/ML and cybersecurity. Open to collaborating on exciting projects and research opportunities
 
-- 👥 Worked with almost 10+ Clients
+-  📫 How to reach me **yawar.abass012@gmail.com**
 
-- 🌱 I’m currently learning **Backend Development (Node.js)**
-
--  📫 How to reach me **developer.yawar@gmail.com**
-
-<hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/developer_yawar" target="blank">
-<img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="Yawar abass" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/yawar-abass-1603ab206" target="blank">
-<img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="https://www.linkedin.com/in/yawar-abass-1603ab206" height="30" width="30" /></a>
-  <a href="https://www.instagram.com/developer_yawar" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="30" /></a>
-</p>
 <hr>
 <h3>🔧 Technologies & Tools</h3> 
 
